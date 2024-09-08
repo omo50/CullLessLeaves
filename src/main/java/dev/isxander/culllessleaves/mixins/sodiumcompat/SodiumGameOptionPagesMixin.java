@@ -1,11 +1,11 @@
 package dev.isxander.culllessleaves.mixins.sodiumcompat;
 
 import dev.isxander.culllessleaves.compat.SodiumCompat;
-import me.jellysquid.mods.sodium.client.gui.SodiumGameOptionPages;
-import me.jellysquid.mods.sodium.client.gui.options.*;
-import me.jellysquid.mods.sodium.client.gui.options.control.ControlValueFormatter;
-import me.jellysquid.mods.sodium.client.gui.options.control.SliderControl;
-import me.jellysquid.mods.sodium.client.gui.options.control.TickBoxControl;
+import net.caffeinemc.mods.sodium.client.gui.SodiumGameOptionPages;
+import net.caffeinemc.mods.sodium.client.gui.options.*;
+import net.caffeinemc.mods.sodium.client.gui.options.control.ControlValueFormatter;
+import net.caffeinemc.sodium.client.gui.options.control.SliderControl;
+import net.caffeinemc.mods.sodium.client.gui.options.control.TickBoxControl;
 import net.minecraft.text.Text;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Pseudo;
