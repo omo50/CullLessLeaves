@@ -3,7 +3,7 @@ package dev.isxander.culllessleaves.mixins.sodiumcompat;
 import com.llamalad7.mixinextras.injector.ModifyExpressionValue;
 import dev.isxander.culllessleaves.CullLessLeaves;
 import dev.isxander.culllessleaves.Cullable;
-import me.jellysquid.mods.sodium.client.render.chunk.compile.pipeline.BlockOcclusionCache;
+import net.caffeinemc.mods.sodium.client.render.chunk.compile.pipeline.BlockOcclusionCache;
 import net.minecraft.block.BlockState;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.math.Direction;
